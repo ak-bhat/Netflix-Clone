@@ -1,5 +1,4 @@
 .banner{
-    background-image: url("https://wallpaperaccess.com/full/2703652.png");
     background-size: cover;
     height: 448px;
     color: white;
@@ -45,6 +44,7 @@
         font-size: 1rem;
         height: 80px;
         max-width: 360px;
+        text-shadow: 1px 2px black;
 }
 
 
